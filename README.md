@@ -26,8 +26,17 @@
 ## Step 2: Install and open PCC
 - Website of PCC : https://www.phantomcamera.fr/resourcesandsupport/phantomresources/pccsoftware
 
-## Step 3: Infrarad electric circuit 
+## Step 3: Infrared electric circuit 
+- Trigger detection on the VEO camera, P5 port, with : P5 in " recording " mode : see in this [image](https://user-images.githubusercontent.com/100707728/156549922-d30fde64-473d-4005-b435-d5d9c6516db7.png). 
 
+- Infrared LED circuit: see this very basic [diagram](https://user-images.githubusercontent.com/100707728/156557324-e85e71c7-09cf-4f59-9858-1ebf81a579b8.png). When the VEO camera is triggered the signal light the two infrared LEDs and the Miro camera is triggered. 
 
 ## Step 4: PCC parameters 
+See the [screenshot](https://user-images.githubusercontent.com/100707728/156555562-c006bb96-4320-4dcf-a2eb-31f31e56c202.png): how I trigger the two cameras. Note that my camera where oriented at 90°. The VEO camera was trigger by the fly falling in the field of the camera while the miro camera was triggered when the Infrared LED lights up. 
 
+> 1. Miro:
+- Miro camera seeting in PCC to change the signal of the port P5: see [image](https://user-images.githubusercontent.com/100707728/156550670-4fa0779d-3cff-4d8a-a129-bc22f25b675b.png)
+- Settings: see this [screenshot](https://user-images.githubusercontent.com/100707728/156557653-f084d75e-e565-48ba-bffc-63030c6c2bdb.png)
+
+> 2. VEO:
+- Settings: see this [screenshot](https://user-images.githubusercontent.com/100707728/156557793-a7deb19f-9708-4fdd-9f60-70fee769d141.png)
