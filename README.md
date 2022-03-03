@@ -1,10 +1,16 @@
-# Phantom_synchronisation
+# Phantom manual synchronisation with infrared leds
 
 ## Contents
-- synchronization of two camera phantoms : settings, connections, and parameters
+- synchronization of two camera phantoms : settings, electric circuit, and parameters
 - Operating system: windows 10 
 - Software used: PCC 3.4
 - Phantoms cameras: Phantom Miro M11O, Phantom VEO E310
+
+## How it's works: 
+1. Triggering of VEO camera by fly falling in the field of the camera 
+2. Triggering of the two infrared LEDs
+3. Triggering of Miro camera by the led in the camera field 
+4. Manual synchronization with the lighting of the LEDs (one led in each field of view/ two cameras)
 
 ## Step 1: Connect your computer to the phantoms
 - You will need two ethernet ports for the two cameras or one ethernet port + a USB/ethernet adapter
@@ -19,4 +25,9 @@
 
 ## Step 2: Install and open PCC
 - Website of PCC : https://www.phantomcamera.fr/resourcesandsupport/phantomresources/pccsoftware
+
+## Step 3: Infrarad electric circuit 
+
+
+## Step 4: PCC parameters 
 
