@@ -10,7 +10,7 @@
 1. Triggering of VEO camera by fly falling in the field of the camera 
 2. Triggering of the two infrared LEDs
 3. Triggering of Miro camera by the led in the camera field 
-4. Manual synchronization with the lighting of the LEDs (one led in each field of view/ two cameras)
+4. Manual synchronization afterwards with the lighting of the LEDs (one led in each field of view/ two cameras). 
 
 ## Step 1: Connect your computer to the phantoms
 - You will need two ethernet ports for the two cameras or one ethernet port + a USB/ethernet adapter
