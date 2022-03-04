@@ -40,3 +40,5 @@ See the [screenshot](https://user-images.githubusercontent.com/100707728/1565555
 
 > 2. VEO:
 - Settings: see this [screenshot](https://user-images.githubusercontent.com/100707728/156557793-a7deb19f-9708-4fdd-9f60-70fee769d141.png)
+
+## Step 5: save in multipage tiff
